@@ -29,5 +29,4 @@ public class SampleSpringBootTest {
 		assertThat(result).isEqualTo("hello saelobi");
 	}
 	
-	
 }
